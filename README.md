@@ -28,7 +28,7 @@ As demais estatísticas descritivas podem ser verificadas no notebook
 
 ## Tratamento da base
 
-Por se tratar de uma base desbalanceada e com duas variáveis é necessário balancear o dataset e normalizar essas duas variáveis.
+Por se tratar de uma base desbalanceada e com a variável alvo binária é necessário balancear o dataset e normalizar essas duas variáveis.
 Primeiramente dividi o dataset em treino e teste. Para o balanceamento e posterior utilização nos modelos de machine learning utilizei três métodos de sampling:
 
 ![image](https://user-images.githubusercontent.com/48839817/148216159-456b560d-4f26-42a2-acca-0638200259ed.png)
